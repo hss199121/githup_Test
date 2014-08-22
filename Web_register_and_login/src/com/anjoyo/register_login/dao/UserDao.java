@@ -10,7 +10,7 @@ import com.anjoyo.register_login.DbUtil;
 import com.anjoyo.register_login.bean.User;
 import com.mysql.jdbc.Connection;
 
-/*hh*/
+/*hh安卓越*/
 public class UserDao {
 	private Connection conn;
 	public static final UserDao istance=new UserDao();
