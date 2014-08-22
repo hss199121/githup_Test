@@ -23,6 +23,7 @@ public class UserDao {
 	/**
 	 * 1 代表登入成功
 	 * 2 代表帐号不存在
+	 * 
 	 * 3 代表密码错误
 	 * -1 代表系统错误
 	 * @param user
